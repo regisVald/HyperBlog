@@ -3,3 +3,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: crimson;
 }
+
+.container {
+    background-color: aqua;
+    border:  1px solid black;
+}
