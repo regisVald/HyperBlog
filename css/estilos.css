@@ -1,18 +1,10 @@
 body {
     text-align:  center;
     font-family: Arial, Helvetica, sans-serif;
-<<<<<<< HEAD
-    color: gray;
-}
-
-.container {
-    background-color: yellow;
-=======
     color: white;
 }
 
 .container {
     background-color: #b94646;
->>>>>>> cabecera
     border:  1px solid black;
 }
